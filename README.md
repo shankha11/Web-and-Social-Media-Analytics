@@ -19,20 +19,20 @@ The dataset used for this project is sourced from social media reviews related t
 The following metrics summarize the performance of the different machine learning models used in this project:
 
 ### Naive Bayes Classifier
-- **Training Accuracy:** 85.7%
-- **Test Accuracy:** 82.4%
+- **Training Accuracy:** 88.02%
+- **Test Accuracy:** 71.61%
 
 ### Random Forest Classifier
-- **Training Accuracy:** 89.3%
-- **Test Accuracy:** 85.1%
+- **Training Accuracy:** 99.03%
+- **Test Accuracy:** 70.32%
 
 ### XGBoost Classifier (using Bag of Words)
-- **Training Accuracy:** 91.2%
-- **Test Accuracy:** 87.5%
+- **Training Accuracy:** 83.91%
+- **Test Accuracy:** 71.81%
 
 ### XGBoost Classifier (using TF-IDF)
-- **Training Accuracy:** 92.4%
-- **Test Accuracy:** 88.3%
+- **Training Accuracy:** 88.17%
+- **Test Accuracy:** 71.17%
 
 ### Word Cloud Analysis
 - **Positive Reviews:** The word cloud visualization highlights the most common words in positive reviews.
